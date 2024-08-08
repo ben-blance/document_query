@@ -1,0 +1,3895 @@
+id,filename,content,format
+1,[English (auto-generated)] Some bad code just broke a billion Windows machines [DownSub.com].txt,"if you woke up today you should probably
+
+just go back to sleep because your
+
+windows work computer will likely have a
+
+blue screen of death today Millions if
+
+not billions of Windows computers got
+
+instab bricked around the world thanks
+
+to an update pushed by Enterprise cyber
+
+security firm crowd strike and it's bad
+
+airports are shutting down hospitals are
+
+unable to treat patients the banks
+
+aren't able to get your money and the
+
+RB's drive-through window went down
+
+forcing people to hunt stray cats in the
+
+street just for food what's hilarious
+
+though is that a top cyber security firm
+
+just messed up the global economy in a
+
+way that the evil hackers they protect
+
+you from could only dream of in today's
+
+video we'll take a look at the technical
+
+side of This Disaster and find out how
+
+such a catastrophic mistake like this
+
+can even happen in the modern world it
+
+is July 19th 2024 and you're watching
+
+the code report Corporate America is in
+
+panic mode right now because everybody's
+
+work computers are bricked and that
+
+means the hamsters can't keep spinning
+
+the wheels a huge number of Fortune 500
+
+companies use crowd strike for cyber
+
+security it's got over 500 clients on
+
+the fortune 1000 list its primary
+
+product is called Falcon a tool that
+
+provides endo protection using
+
+artificial intelligence and analytics to
+
+detect threats in real time it is
+
+publicly traded and its stonk is down
+
+right now and for good reason because
+
+everybody's blaming them for causing
+
+Windows to deliver its blue screen of
+
+death luckily Mac OS users and Linux
+
+Chads are unaffected to understand why
+
+we first need to understand how Cloud
+
+strikes Falcon sensor actually works
+
+it's installed just like regular
+
+software but integrates with the
+
+operating system at a low level often
+
+using kernel mode drivers and basically
+
+just sits there in the background
+
+looking for anomalies it collects
+
+Telemetry data produces reports and
+
+offers a bunch of other incomprehensible
+
+techno nonsense products to justify
+
+multi-million dollar Enterprise
+
+contracts but the bottom line is that
+
+it's third party software that sits in
+
+the critical path of a computer which
+
+means if it fails the Entire Computer
+
+might fail and that's exactly what
+
+happened here apparently an automated
+
+software update last night had some bad
+
+code in it and every computer that got
+
+that update is now dead now part of the
+
+reason this is really bad oh my God is
+
+this bad is that it's not just a regular
+
+outage but every affected computer needs
+
+to be rebooted in fail mode so the
+
+driver can be removed manually and most
+
+employees don't have access to do that
+
+on their own and that means it guys are
+
+going to be really busy today it's the
+
+IT guy equivalent of being a surgeon in
+
+World War I and the consequences are
+
+real the London Stock Exchange was
+
+disrupted most Indian airports went down
+
+causing them to write boarding passes by
+
+hand along with a ton of other issues to
+
+Cloud strikes credit they were quick to
+
+point out that it's not a security
+
+incident or Cyber attack and explained
+
+it this way yeah
+
+listen uh
+
+we up but they were quick to fix
+
+it and the fix is really easy all you
+
+have to do is detach the operating
+
+system disc create a snapshot or backup
+
+of the disc mount a volume to a new
+
+virtual server navigate to the winder
+
+driver's directory locate the file
+
+c291 CIS and delete it detach the volume
+
+from the new virtual server then
+
+reattach the fixed volume to the
+
+impacted virtual server piece of cake
+
+but option two is to go to Home Depot
+
+and buy a sledgehammer then use it to
+
+uninstall Microsoft Windows and switch
+
+to Linux I do feel really bad for the
+
+programmer who updated this driver
+
+though because the tech lead's about to
+
+run get blame and blame them for this
+
+whole mess not only is this person about
+
+to get fired but they also have blood on
+
+their hands for shutting down the
+
+hospitals Transportation networks and
+
+arb's family restaurants that we need to
+
+survive if you're that guy and you're
+
+watching this don't feel too bad though
+
+what we have here is a situation where
+
+the Cure is more harmful than the
+
+disease the public Mega corporations are
+
+under a ton of pressure to secure their
+
+computer systems and they're constantly
+
+audited by Third parties a company like
+
+Macy's is going to go out and hire a
+
+team of a 100 cyber security weirdos
+
+instead they'll pay a company like Cloud
+
+strike a few million dollars a year to
+
+figure out cyber security for them
+
+giving them someone else to blame when
+
+their system gets hacked what everyone
+
+failed to realize though is that giving
+
+one company kernel access to the
+
+computers of most Fortune 500 companies
+
+might actually be a bad idea because it
+
+only takes one automatic update with a
+
+misplace zero to nearly destroy the
+
+entire world this has been the code
+
+report thanks for watching and I will
+
+see you in the next one
+
+",text/plain
+2,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+3,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+4,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+5,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+6,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+7,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+8,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+9,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+10,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+11,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+12,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+13,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+14,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+15,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+16,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+17,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+18,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+19,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+20,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+21,classroom.volp.in (1).txt,"[
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750981,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currencyView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""crypto""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082061,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sidebarView"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""hidden""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1723558614,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-session-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""S09jUldBNllHWU81ZjUrZ3pBbWdoc2d3dys4RG9XWkJYcVQyWTlCSXVRdmxHeGdsZHR1Y1hTRnVqRzN3cEwzMC0tUnFaWm9SeW1IbjVKYjQ0QWFEUkdmdz09--444e6f1ca0779d73239432362ccf8ffbf0e490e4""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.540039,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga_TWGX3QNXGG"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GS1.1.1722953812.2.0.1722953812.0.0.0""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080654,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fiat_number_format"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.13159,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""oddsFormat"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""decimal""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1757513812.51786,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""_ga"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""GA1.1.1950016565.1722946297""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.7498,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_currency"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""btc""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1722954724,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""_dd_s"",
+        ""path"": ""/"",
+        ""sameSite"": ""strict"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""rum=0&expire=1722954710231""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082457,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""casinoSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Monopoly\"",\""Crazy Time\"",\""Sweet Bonanza\"",\""Money Train\"",\""Reactoonz\""]""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.131075,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportMarketGroupMap"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{}""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1722955599.538169,
+        ""hostOnly"": false,
+        ""httpOnly"": true,
+        ""name"": ""__cf_bm"",
+        ""path"": ""/"",
+        ""sameSite"": ""no_restriction"",
+        ""secure"": true,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""MpyucDDNameEc3yQrvo_AVKCjrQNI40V5IdsnrPSqv0-1722953798-1.0.1.1-KXx9F9yG8V4LxPULNyYVW4IozSSnxSw3SjKrKHFcYcS.HyVPoaj3nsZ5Q43yGkuvaB8Sj8Iz8Lz9wCJWjnkSFA""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081093,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""cookie_consent"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""true""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513807.750411,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""currency_hideZeroBalances"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506522.293045,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""fullscreen_preference"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""false""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746283814,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-device-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""83b442c4-2aa1-42a2-b42c-f15bd03351bb""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1746276345,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""intercom-id-cx1ywgf2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""4a9319ea-bfef-468f-b6c7-943e165bcd55""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.081738,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""leftSidebarView_v2"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""expanded""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513809.989436,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""locale"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""en""
+    },
+    {
+        ""domain"": "".stake.com"",
+        ""expirationDate"": 1754489811,
+        ""hostOnly"": false,
+        ""httpOnly"": false,
+        ""name"": ""mp_e29e8d653fb046aa5a7d7b151ecf6f99_mixpanel"",
+        ""path"": ""/"",
+        ""sameSite"": null,
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""%7B%22distinct_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%2C%22%24device_id%22%3A%20%22191279a1a7d928-09add786ffe0fa-26001e51-144000-191279a1a7d929%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22www.google.com%22%2C%22__mps%22%3A%20%7B%7D%2C%22__mpso%22%3A%20%7B%7D%2C%22__mpus%22%3A%20%7B%7D%2C%22__mpa%22%3A%20%7B%7D%2C%22__mpu%22%3A%20%7B%7D%2C%22__mpr%22%3A%20%5B%5D%2C%22__mpap%22%3A%20%5B%5D%2C%22%24user_id%22%3A%20%229772ec01cd99f6b32638f98eb101bc3fde687a4b030103a9bdd9dd2db8a31a4b%22%7D""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757506519.157954,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""014b1209f1459dbd99ba95ab4be8965e87312139ddfd29a43717d13b1999b0c2d5d72f3a846c6fb3085f79f5ea2d1cc4""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.080153,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""session_info"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""{\""id\"":\""c10d4d55-d8f6-4ddb-82ee-9a7ba66970fe\"",\""sessionName\"":\""Chrome (Unknown)\"",\""ip\"":\""103.97.164.18\"",\""country\"":\""IN\"",\""city\"":\""Pune\"",\""active\"":true,\""updatedAt\"":\""Tue, 06 Aug 2024 12:15:18 GMT\"",\""__typename\"":\""UserSession\""}""
+    },
+    {
+        ""domain"": ""stake.com"",
+        ""expirationDate"": 1757513808.082841,
+        ""hostOnly"": true,
+        ""httpOnly"": false,
+        ""name"": ""sportsSearch"",
+        ""path"": ""/"",
+        ""sameSite"": ""lax"",
+        ""secure"": false,
+        ""session"": false,
+        ""storeId"": null,
+        ""value"": ""[\""Liverpool FC\"",\""Kansas City Chiefs\"",\""Los Angeles Lakers\"",\""FC Barcelona\"",\""FC Bayern Munich\""]""
+    }
+]",text/plain
+22,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+23,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+24,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+25,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+26,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+27,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+28,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+29,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+30,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+31,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+32,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+33,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+34,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+35,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+36,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+37,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
+38,classroom.volp.in.txt,U2FsdGVkX1+HWVWNmeRshH/e8z0CbKENdwwEVF/is1Dvb0BDNG7nSO0kOnKLqWUjUD1AORjDEDnAXlGv4i9QpLAB6miOVMd7c+G2StrCWjR+BJOm9ItTqMvqjBoGprZCajjH5n6wYRVJi7lRYL+b9LXLqDjS2+PDaufU5hpGS2BbDTN0icO9TrzJXM2vBsKeBXJeAThw0GL4oJ7LGFVeOeMmNGq7rqDYfw6m8uFJAyL3fmk28UkD/IWAR40ptWxnX3RP13c/e/3tsdrKPZ1aNb5+m5URfllWG7s/O7j335K0MLhnFvQALtrlzsKbu07KrkjBfSEAf4LhhmY5gkuYGkyDq5qBdzYM6tFaShFn6ELoCraPhhZCtHR/SQ+DBaQoKq1syCQIIyQEvIbxI/q35z946Cqx+f641UQse3ytICE0CPHeypYL2BXXtHFkbxnqtTGym4zGtzo5w297QVM53AlYN4hTikWKFe6M1MCudLXOU0ne0F/nSRd12YyJbtmkZpeGonwp7apUyfXc+8dfrb6CNzcEnzRRWgxDjhaXnfD1G4NCSS4MifhKBizG/17Vvn4yJCLE0McoKwLyLm7iQE8QqxZaBCVZbqfF42l2AI7Jip0cZEzQ8IFRdDlsLvolIOqlLIMQQYKLyYR+d9kPQxKbWjqtTqCZ8nbCeaKDPFdBVDwYU9YI0znVhPbsUpIZq3iO9wllBxLmmK5WCijqnBylWC+6R2AgkAxBcAOtqy7wo9I8G45GdvwtL3sY3dUEXFWVW77BCwNmehOBxuyKZ7B5AmDmVRJeAC6e7xuL33xmmlxIr+Qev8BWuuqQbTKd2DxD58vZ7njE/kHOy1lJF77KK5n8fSVLjdyXdhF8cTq7PIBo27ntUH13wAZW6G5MttxUoxtdAV4D1bbY5hWfndi0OAE0PsXJh6QWVPOk80rYL0Kkls0E/yx5p7nAwYraI/wKK8UxaN5xbcwl24z14NcXCsELaXkQXmy0GxJV0XlFYseo1SGbqkdUhLpNkl3JzDtYuWjmuiSP9P82F62wptZu0btTgRh+nHy2IeHblcktdHnMDeyLyN9WA/PRxGOxC1NEO8Wj/7gEdyMxHsuiAfyZ3Pc3nvocJ3Ig7yQj2ZwdHhsaVii0zykJOcdvG1C5NIwk7UvDjuP4b5QpSJ8gylsy23240QYIvK/bZg4ogfy7z94rv7ahfYIxffo1iThiVO5rCp41Xdhti0tX4yCkdtjWrQ21BRspTYpBBPJ1WVC4jXkug3oJjqEn0uQISdWtlFolxD7BcfXfl6mLxqE8pR3IoJZSqswNkwr+nxI4WZx+xWbyoYpAZUd28KnaSfOT4wFdWsEaf0Za5kul8be/MApyNwzTcgRpbZRvPzIBEwzGqq8L+sxaB9vJ5VVDCSyHoZwOGq6b0A+V+eagV626uP1PKQe6V7k20XU9TPc0WD94ENix8Z2mWRpW1NsvXoZbg8e/IIT7sGMcZB1DmNwrVcEd4Jd6XhIf0FoNJ7u3DdHNw2YAPRD/tGuETtpswaxV+bFHwOPwNoeutU7m0FnlZdws5QHCrf3PSa442jaXvdo0v63txgJRpBiOilfxVBumV07Upo8+rBrzO/ea+TEMAhw+iaDv7APx5Ugdt6pQs4byOc9oftfJLRshxyhnGxuX32TWTgJAzkO4+W83il3e9gZgUpVWeismwbN+AvVArgu9edEBY0wpD/7zcl/h5zxVgh5pgUFcFo7IdwuuDy0VwngFb5/8DkAP9+V8N6eq4K9r8XNCNB+Eb6SdfcNz7sO3+UXhqupCGQY7qpydH1fruDU1YK1I8WxrgzKlXnS/lyIxyX8d9Ok0znsunYMCINsWLJfGMWxBS4q6pSWzdu5l8Q==,text/plain
